@@ -1,6 +1,6 @@
 # 🧁 Kek mi Muffin mi?
 
-Bu projede, un (Flour) ve şeker (Sugar) oranlarına göre bir ürünün kek mi yoksa muffin mi olduğunu tahmin eden basit bir **lojistik regresyon modeli** geliştirilmiştir.
+Bu proje, un (Flour) ve şeker (Sugar) oranlarına göre bir ürünün kek mi yoksa muffin mi olduğunu tahmin eden basit bir **lojistik regresyon modeli** ile geliştirilmiştir.
 
 ## Veri Seti
 
