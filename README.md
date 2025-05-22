@@ -1,16 +1,14 @@
-# 🧁 Kek mi Muffin mi? – Makine Öğrenmesi ile Tahmin Projesi
+# 🧁 Kek mi Muffin mi?
 
 Bu projede, un (Flour) ve şeker (Sugar) oranlarına göre bir ürünün kek mi yoksa muffin mi olduğunu tahmin eden basit bir **lojistik regresyon modeli** geliştirilmiştir.
 
-## 📁 Veri Seti
-
-Kullanılan veri seti `Cupcakes vs Muffins.csv` adında bir CSV dosyasıdır. İçeriğinde her satır bir ürün (kek ya da muffin) olup şu bilgileri içerir:
+## Veri Seti
 
 - **Flour**: Un miktarı
 - **Sugar**: Şeker miktarı
 - **Type**: Ürünün türü (`Cupcake` veya `Muffin`)
 
-## Kullanılan Teknolojiler
+## Kullanılan kutuphaneler
 
 - Python
 - pandas, numpy
@@ -18,7 +16,6 @@ Kullanılan veri seti `Cupcakes vs Muffins.csv` adında bir CSV dosyasıdır. İ
 - scikit-learn
 - pickle
 
-## 🔍 Proje Adımları
 
 ### 1. Veri Yükleme ve İnceleme
 - Veri `pandas` ile yüklendi ve ilk birkaç satır incelendi.
